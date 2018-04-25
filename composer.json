@@ -5,7 +5,7 @@
     "keywords": ["console", "yii2", "output", "helper"],
     "homepage": "https://github.com/padaVVan/console-message",
     "license": "MIT",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "authors": [
         {
             "name": "Oleg Koltsov",
@@ -20,5 +20,6 @@
         "psr-0": {
             "padavvan\\console":   "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
