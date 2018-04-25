@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "padavvan\\console":   "src/"
+            "padavvan\\helpers":   "src/"
         }
     },
     "minimum-stability": "stable"
