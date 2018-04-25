@@ -20,6 +20,5 @@
         "psr-0": {
             "padavvan\\console":   "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
