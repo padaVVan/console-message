@@ -3,9 +3,8 @@
     "description": "Console message",
     "type": "library",
     "keywords": ["console", "yii2", "output", "helper"],
-    "homepage": "https://github.com/padaVVan/console-message",
     "license": "MIT",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "authors": [
         {
             "name": "Oleg Koltsov",
@@ -18,8 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "padavvan\\console\\":   "src/"
+            "padavvan\\console\\": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
